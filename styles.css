@@ -1,0 +1,11 @@
+body {
+  background: pink;
+}
+h1 {
+  text-align: center;
+  color: rgb(24, 157, 169);
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
